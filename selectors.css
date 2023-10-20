@@ -1,0 +1,23 @@
+/* Elements/Tag Selector */
+/* Elements/Tag Selector Used style all elements of a certain kind */
+li{
+    border: 8px dotted aliceblue;
+}
+ul{
+    border: 5px solid pink;
+}
+
+/* Class Selector */
+/* Class Selector is used to style multiple elements */
+/* Must use a period/dot before the class name  */
+
+.fruit {
+    background-color: orange;
+}
+
+/* ID Selector */
+/* ID Selector is used to style a single element */
+/* Must use a pound sign(aka hashtag#  before the ID name  */
+#favorite {
+background-color: cornflowerblue;
+}
